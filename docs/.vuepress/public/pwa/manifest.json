@@ -1,0 +1,41 @@
+{
+  "name": "阿猫阿狗",
+  "short_name": "阿猫阿狗",
+  "description": "我一直都在流浪，可我不曾见过海洋。",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/leslieyin/dns@0.2/blog/public/icons/47%C3%9741.png",
+      "sizes": "47x41",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/leslieyin/dns@0.2/blog/public/icons/71%C3%9762.png",
+      "sizes": "71x62",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/leslieyin/dns@0.2/blog/public/icons/99%C3%9786.png",
+      "sizes": "99x86",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/leslieyin/dns@0.2/blog/public/icons/136%C3%97118.png",
+      "sizes": "136x118",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/leslieyin/dns@master/blog/public/icons/icon-144x125.png",
+      "sizes": "144x125",
+      "type": "image/png"
+    },	
+    {
+      "src": "https://cdn.jsdelivr.net/gh/leslieyin/dns@0.2/blog/public/icons/151%C3%97131.png",
+      "sizes": "151x131",
+      "type": "image/png"
+    }
+  ]
+}
